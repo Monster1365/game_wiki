@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: tw-jekyll
-email: your-email@domain.com
-author: Dinosaur Avocado
+title: wiki
+email: gkstjgus0028@gmail.com
+author: Z
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  게임의 세계관과 스토리부터 캐릭터, 아이템, 시스템, 콘텐츠까지 다양한 정보를 정리한 게임 위키입니다.
+  게임에 관한 모든 정보를 체계적으로 확인하고 탐색할 수 있습니다.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
 baseurl: "/tw-jekyll" # the subpath of your site, e.g. /blog
@@ -29,7 +28,7 @@ baseurl: "/tw-jekyll" # the subpath of your site, e.g. /blog
 url: "https://vsoch.github.io" # the base hostname & protocol for your site
 
 # Keywords (space separated)
-keywords: "documentation theme"
+keywords: "게임 위키 게임 정보 게임 공략 캐릭터 아이템 시스템 세계관"
 
 # Add colorful permalinks to headers
 # change colors in _includes/permalinks.html
